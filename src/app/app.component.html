@@ -15,7 +15,7 @@
     <div *ngIf="selectedResidence" class="col-xs-12 col-sm-6 col-md-8">
       <h4>{{ selectedResidence.adresse }}<span class="float-right"> {{ selectedResidence.ville }}</span></h4>
       <div class="input-group mb-3">
-        <input type="text" class="form-control" placeholder="Code" ([ngModel])="code">
+        <input type="text" class="form-control" placeholder="Code" [(ngModel)]="code">
         <div class="input-group-append">
           <button class="btn btn-outline-secondary" type="button" (click)="send()">Envoyer</button>
         </div>
