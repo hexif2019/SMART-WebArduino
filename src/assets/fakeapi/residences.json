@@ -1,0 +1,867 @@
+[
+  {
+    "id": "0aeae192259ccf5ce8efb3be",
+    "adresse": "20 avenue albert einstein, A",
+    "position": {
+      "longitude": 1,
+      "latitude": 1
+    },
+    "idClient": [],
+    "casiers": {
+      "0": {
+        "id": "0",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "1": {
+        "id": "1",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "2": {
+        "id": "2",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "3": {
+        "id": "3",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "4": {
+        "id": "4",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "5": {
+        "id": "5",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "6": {
+        "id": "6",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "7": {
+        "id": "7",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "8": {
+        "id": "8",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "9": {
+        "id": "9",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "10": {
+        "id": "10",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "11": {
+        "id": "11",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      }
+    },
+    "idMagasins": [
+      "1aeaf16d259ccf5def662147"
+    ],
+    "ville": "lyon",
+    "codePostal": "69100",
+    "img": "test.img"
+  },
+  {
+    "id": "1aeae192259ccf5ce8efb3be",
+    "adresse": "20 avenue albert einstein, B",
+    "position": {
+      "longitude": 1,
+      "latitude": 1
+    },
+    "idClient": [],
+    "casiers": {
+      "0": {
+        "id": "0",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "1": {
+        "id": "1",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "2": {
+        "id": "2",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "3": {
+        "id": "3",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "4": {
+        "id": "4",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "5": {
+        "id": "5",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "6": {
+        "id": "6",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "7": {
+        "id": "7",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "8": {
+        "id": "8",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "9": {
+        "id": "9",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "10": {
+        "id": "10",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "11": {
+        "id": "11",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      }
+    },
+    "idMagasins": [
+      "5aeaf16d259ccf5def662147"
+    ],
+    "ville": "lyon",
+    "codePostal": "69100",
+    "img": "test.img"
+  },
+  {
+    "id": "2aeae192259ccf5ce8efb3be",
+    "adresse": "20 avenue albert einstein, M",
+    "position": {
+      "longitude": 1,
+      "latitude": 1
+    },
+    "idClient": [],
+    "casiers": {
+      "0": {
+        "id": "0",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "1": {
+        "id": "1",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "2": {
+        "id": "2",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "3": {
+        "id": "3",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "4": {
+        "id": "4",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "5": {
+        "id": "5",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "6": {
+        "id": "6",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "7": {
+        "id": "7",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "8": {
+        "id": "8",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "9": {
+        "id": "9",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "10": {
+        "id": "10",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "11": {
+        "id": "11",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      }
+    },
+    "idMagasins": [
+      "3aeaf16d259ccf5def662147"
+    ],
+    "ville": "lyon",
+    "codePostal": "69100",
+    "img": "test.img"
+  },
+  {
+    "id": "4aeae192259ccf5ce8efb3be",
+    "adresse": "20 avenue albert einstein, M",
+    "position": {
+      "longitude": 1,
+      "latitude": 1
+    },
+    "idClient": [],
+    "casiers": {
+      "0": {
+        "id": "0",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "1": {
+        "id": "1",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "2": {
+        "id": "2",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "3": {
+        "id": "3",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "4": {
+        "id": "4",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "5": {
+        "id": "5",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "6": {
+        "id": "6",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "7": {
+        "id": "7",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "8": {
+        "id": "8",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "9": {
+        "id": "9",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "10": {
+        "id": "10",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "11": {
+        "id": "11",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      }
+    },
+    "idMagasins": [
+      "4aeaf16d259ccf5def662147"
+    ],
+    "ville": "lyon",
+    "codePostal": "69100",
+    "img": "test.img"
+  },
+  {
+    "id": "5aeae192259ccf5ce8efb3be",
+    "adresse": "20 avenue albert einstein, M",
+    "position": {
+      "longitude": 1,
+      "latitude": 1
+    },
+    "idClient": [],
+    "casiers": {
+      "0": {
+        "id": "0",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "1": {
+        "id": "1",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "2": {
+        "id": "2",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "3": {
+        "id": "3",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "4": {
+        "id": "4",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "5": {
+        "id": "5",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "6": {
+        "id": "6",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "7": {
+        "id": "7",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "8": {
+        "id": "8",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "9": {
+        "id": "9",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "10": {
+        "id": "10",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      },
+      "11": {
+        "id": "11",
+        "volume": 0,
+        "longueur": 0,
+        "largeur": 0,
+        "hauteur": 0,
+        "disponibilites": [
+          {
+            "date": "2018-05-03T13:08:39.543Z",
+            "etat": "LIBRE"
+          }
+        ]
+      }
+    },
+    "idMagasins": [
+      "5aeaf16d259ccf5def662147"
+    ],
+    "ville": "lyon",
+    "codePostal": "69100",
+    "img": "test.img"
+  }
+]

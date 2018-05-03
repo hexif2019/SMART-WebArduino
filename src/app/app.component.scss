@@ -1,0 +1,30 @@
+
+
+.casier{
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 5px;
+
+  &-inner{
+    width: 100%;
+    height: 100%;
+    border: solid 1px #000;
+    background: #eee;
+    text-align: center;
+    padding: 10px;
+
+    input.form-control{
+      display: inline-block;
+    }
+
+    &-2{
+      padding-top: 20px;
+    }
+
+    &-3{
+      padding-top: 20px;
+    }
+  }
+
+}

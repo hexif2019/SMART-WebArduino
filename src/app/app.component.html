@@ -1,0 +1,38 @@
+<div class="container">
+  <h1>Simulateur casier</h1>
+  <h2>Residances</h2>
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-4">
+      <div class="list-group mb-4">
+        <a *ngFor="let residence of residences" href="javascript:void(0)" class="list-group-item list-group-item-action"
+           [ngClass]="{active: residence === selectedResidence}" (click)="selectedResidence = residence!==selectedResidence && residence">
+          {{ residence.adresse }},<br>
+          {{ residence.codePostal }} {{ residence.ville }}
+          <span class="float-left"></span>
+        </a>
+      </div>
+    </div>
+    <div *ngIf="selectedResidence" class="col-xs-12 col-sm-6 col-md-8">
+      <h4>{{ selectedResidence.adresse }}<span class="float-right"> {{ selectedResidence.ville }}</span></h4>
+      <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Code" ([ngModel])="code">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary" type="button" (click)="send()">Envoyer</button>
+        </div>
+      </div>
+      <div *ngFor="let casier of selectedResidence.casiers" class="casier">
+        <div *ngIf="casier.isOpen" class="casier-inner border-success casier-inner-1" >
+          <input type="number" class="form-control" [(ngModel)]="casier.nbEll"><br>
+          <button class="btn btn-outline-secondary" type="button" (click)="casier.isOpen=false">Close</button>
+        </div>
+        <div *ngIf="!casier.isOpen && casier.nbEll" class="casier-inner casier-inner-2 border-danger">
+          {{casier.nbEll}}<br>
+          Articles
+        </div>
+        <div *ngIf="!casier.isOpen && !casier.nbEll" class="casier-inner casier-inner-3 border-danger" >
+          Vide
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

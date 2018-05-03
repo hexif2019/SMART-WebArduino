@@ -1,0 +1,15 @@
+{
+  "id": "10001",
+  "token": "TOKEN123456789",
+  "user": {
+    "id": "10001",
+    "nom": "vogel",
+    "prenom": "hugues",
+    "email": "hugues.vogel@boitemail.com",
+    "rayon": 5000,
+    "position": {
+      "latitude": 45.780160,
+      "longitude": 4.873210
+    }
+  }
+}
